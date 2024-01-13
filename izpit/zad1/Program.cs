@@ -11,7 +11,7 @@ namespace zad1
         static void Main(string[] args)
         {
             var cenazanaem = double.Parse(Console.ReadLine());
-            var cenazahrana = 3 * cenazanaem;
+            var cenazahrana = 3 * cenazanaem5;
             var cenazanapitki = cenazahrana - (cenazahrana * 20) / 100;
             var cenazaukrasa = 0.1 * (cenazahrana + cenazanapitki);
             var obshto = cenazanaem + cenazanapitki + cenazaukrasa + cenazahrana;
