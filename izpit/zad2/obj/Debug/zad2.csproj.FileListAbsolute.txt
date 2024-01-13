@@ -1,0 +1,7 @@
+D:\10 klas\10 b klas\it kariera\izpit\zad2\bin\Debug\zad2.exe.config
+D:\10 klas\10 b klas\it kariera\izpit\zad2\bin\Debug\zad2.exe
+D:\10 klas\10 b klas\it kariera\izpit\zad2\bin\Debug\zad2.pdb
+D:\10 klas\10 b klas\it kariera\izpit\zad2\obj\Debug\zad2.csproj.AssemblyReference.cache
+D:\10 klas\10 b klas\it kariera\izpit\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+D:\10 klas\10 b klas\it kariera\izpit\zad2\obj\Debug\zad2.exe
+D:\10 klas\10 b klas\it kariera\izpit\zad2\obj\Debug\zad2.pdb
